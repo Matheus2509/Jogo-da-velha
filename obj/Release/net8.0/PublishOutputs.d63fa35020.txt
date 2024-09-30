@@ -1,0 +1,5 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\App\bin\Release\net8.0\publish\App.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\App\bin\Release\net8.0\publish\App.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\App\bin\Release\net8.0\publish\App.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\App\bin\Release\net8.0\publish\App.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\App\bin\Release\net8.0\publish\App.pdb
